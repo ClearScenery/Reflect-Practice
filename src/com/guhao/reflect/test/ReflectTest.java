@@ -10,8 +10,8 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import com.guhao.reflect.annotation.TestAn;
-import com.guhao.reflect.target.TargetAnnotationClass;
-import com.guhao.reflect.target.TargetMethodClass;
+import com.guhao.reflect.dest.TargetAnnotationClass;
+import com.guhao.reflect.dest.TargetMethodClass;
 
 public class ReflectTest {
 	
